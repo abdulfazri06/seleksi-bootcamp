@@ -1,3 +1,3 @@
 # seleksi-bootcamp
 
-https://github.com/abdulfazri06/seleksi-bootcamp/issues/1#issue-440315842
+![tamplates](https://user-images.githubusercontent.com/48621247/57178705-da6d6000-6e9e-11e9-92ed-ba8a25bdc6b5.JPG)
